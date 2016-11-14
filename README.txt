@@ -1,9 +1,9 @@
-AirCanvas is a Tilt Brush clone for Google Cardboard.  A Bluetooth controller
+Tilt Brush clone for Google Cardboard.  A Bluetooth controller
 is required to play.
 
 NOTE: 
 
-AirCanvas has only been tested with a Power A Moga Hero Bluetooth controller 
+This game has only been tested with a Power A Moga Hero Bluetooth controller 
 and Android smartphone.  Other bluetooth controllers are likely to work 
 but not guaranteed.
 
